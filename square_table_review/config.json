@@ -1,0 +1,11 @@
+{
+  "app": "square-table-review",
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8775
+  },
+  "preview": {
+    "width": 640,
+    "height": 640
+  }
+}

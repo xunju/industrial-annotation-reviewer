@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.runtime/
+.review_deleted/
+demo_data/
+datasets/
+data/
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.zip
+*.7z
+*.rar
