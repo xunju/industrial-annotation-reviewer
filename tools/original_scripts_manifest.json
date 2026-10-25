@@ -1,0 +1,117 @@
+[
+  {
+    "source_name": "annotate_screw_shim.py",
+    "preserved_path": "annotate_screw_shim.py",
+    "sha256": "d1612045ee1cb89fd61bc52733ef40ad20c91f950d6b2e8363122914acce2cfe"
+  },
+  {
+    "source_name": "complete_screw_keypoints_geometry.py",
+    "preserved_path": "complete_screw_keypoints_geometry.py",
+    "sha256": "0c74b49044dd86ebb93b33981477f2a9a605c2e47c430b49037c4c4d7708fd09"
+  },
+  {
+    "source_name": "fix_reviewed_keypoint.py",
+    "preserved_path": "archive/fix_reviewed_keypoint.py",
+    "sha256": "01b6bd25ca3b0b0b5c5a3baba33eb4dafbc2f1ecf4bc56949dbda063ffe65744"
+  },
+  {
+    "source_name": "generate_round_table_roi_640.py",
+    "preserved_path": "archive/generate_round_table_roi_640.py",
+    "sha256": "a8af953cd573b123e149742e27c1e99478940cfcc1fb3da9b542d7dc5c55f8d0"
+  },
+  {
+    "source_name": "propose_shim_inner_geometry.py",
+    "preserved_path": "propose_shim_inner_geometry.py",
+    "sha256": "74ec26cbe5981e511bc8cb49707139e173f8968723587b224c2f3417f51ee8cb"
+  },
+  {
+    "source_name": "qa_circle_annotations.py",
+    "preserved_path": "qa_circle_annotations.py",
+    "sha256": "30b5ae5b0c87ac1b4404203bf04af14711c917448c15fae1974b054932bb995c"
+  },
+  {
+    "source_name": "qa_incomplete_screw_keypoints.py",
+    "preserved_path": "archive/qa_incomplete_screw_keypoints.py",
+    "sha256": "fcc99ae4ee30101774f07459673bdb4ea45d59dd8f727c64e6fc2fd273c0e935"
+  },
+  {
+    "source_name": "qa_screw_shim_annotations.py",
+    "preserved_path": "qa_screw_shim_annotations.py",
+    "sha256": "cb460833514948312c321a83d87aeb711e43cfe2a21cc948e84e7e40141df8f7"
+  },
+  {
+    "source_name": "qa_single_boundary_crops.py",
+    "preserved_path": "qa_single_boundary_crops.py",
+    "sha256": "97a455aef1efe78fb9a43724aed80926f73d47179c2feeccc585cdd322a39be5"
+  },
+  {
+    "source_name": "qa_unmatched_shim_pairs.py",
+    "preserved_path": "qa_unmatched_shim_pairs.py",
+    "sha256": "b74fb6c68982867badbc78078512dc4d95e9ac6793a257b128ecbfe4ff545b36"
+  },
+  {
+    "source_name": "qa_unmatched_shims.py",
+    "preserved_path": "qa_unmatched_shims.py",
+    "sha256": "57690d3ef19ef08c83f29fe0fccb048a773144318279c299c320c72e8cf71853"
+  },
+  {
+    "source_name": "refine_circle_annotations.py",
+    "preserved_path": "refine_circle_annotations.py",
+    "sha256": "4b08e78766e8a21e7977eac8aabb540cd8d55530377dd9c8748ae692ae5c3052"
+  },
+  {
+    "source_name": "refine_selected_circle_contours.py",
+    "preserved_path": "refine_selected_circle_contours.py",
+    "sha256": "78b15dd910df12c65b492be84b202edc4d2c6fd1493601aaaaf14a261ac73d33"
+  },
+  {
+    "source_name": "repair_missing_screw_keypoints.py",
+    "preserved_path": "repair_missing_screw_keypoints.py",
+    "sha256": "d72af7942b5dc6d6bc30bea811a115b209fe6b1fac7d70bcaeff1739ec2f42f1"
+  },
+  {
+    "source_name": "repair_missing_shim_inner.py",
+    "preserved_path": "repair_missing_shim_inner.py",
+    "sha256": "9b59540e00c92538cea0400ef8c065bc54943045e4c07c6651949611de724ee3"
+  },
+  {
+    "source_name": "repair_shim_inner_crop_tta.py",
+    "preserved_path": "repair_shim_inner_crop_tta.py",
+    "sha256": "bf51990da3d97264f18c3aec3a32e31da09e89233c1f1c6a2fa4db43bc0ff4e2"
+  },
+  {
+    "source_name": "repair_shim_inner_scaled_ellipse.py",
+    "preserved_path": "repair_shim_inner_scaled_ellipse.py",
+    "sha256": "ed9d60a509c0f69944a62863e4ed34d494d2d511cca29ae37f9ec34179fbd033"
+  },
+  {
+    "source_name": "repair_shim_outer_crop_tta.py",
+    "preserved_path": "repair_shim_outer_crop_tta.py",
+    "sha256": "ba5a0ed0cf25e3382506b3f0fb17069284402a1ad780945b174d0051c5b7261a"
+  },
+  {
+    "source_name": "resample_circle_json_96.py",
+    "preserved_path": "resample_circle_json_96.py",
+    "sha256": "c60c0607b44a9919ac03dd6fdf81df1568072b6069e99097a43b6528ce5b2087"
+  },
+  {
+    "source_name": "resegment_selected_circle.py",
+    "preserved_path": "resegment_selected_circle.py",
+    "sha256": "fb58e05b9b3af2032bf363bf8a068f4c4a75abd3b11ffb2f1a2a60145def52dd"
+  },
+  {
+    "source_name": "unify_round_table_dataset.py",
+    "preserved_path": "unify_round_table_dataset.py",
+    "sha256": "21f22ca3533dcc0dcadf45ff2eb667ec87b0fba7ba42aeaaef73021f3cbf86ae"
+  },
+  {
+    "source_name": "validate_circle_annotations.py",
+    "preserved_path": "validate_circle_annotations.py",
+    "sha256": "6e4aade1b45aacd2fdd5b74d1f0251416d0c1c82b47fd4cdaba67aa33cc6cda3"
+  },
+  {
+    "source_name": "validate_screw_shim_dataset.py",
+    "preserved_path": "validate_screw_shim_dataset.py",
+    "sha256": "df3681980c7910be1ca1fade63de13b1859832726d44c38a4c23ca08134db958"
+  }
+]

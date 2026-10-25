@@ -15,3 +15,11 @@ Thumbs.db
 *.zip
 *.7z
 *.rar
+
+# Batch-tool inputs and generated artifacts
+models/
+outputs/
+.work_*/
+*.onnx
+*.pt
+*.pth

@@ -6,3 +6,7 @@
 *.md text eol=lf
 *.sh text eol=lf
 *.bat text eol=crlf
+
+# Preserve imported tool source bytes for the original-script SHA-256 manifest.
+tools/*.py -text
+tools/archive/*.py -text
